@@ -1,5 +1,5 @@
 [fedora]
 name=Fedora
-metalink=https://mirrors.fedoraproject.org/metalink?repo=fedora-38&arch=$basearch
+metalink=https://mirrors.fedoraproject.org/metalink?repo=fedora-37&arch=$basearch
 enabled=1
 gpgcheck=0
